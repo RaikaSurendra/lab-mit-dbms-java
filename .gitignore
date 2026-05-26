@@ -1,0 +1,16 @@
+log
+bin/
+out/
+*.db
+*.iml
+.idea/
+.DS_Store
+*.zip
+dist/
+*.dat
+*.tmp
+*.swp
+*.swo
+Thumbs.db
+ehthumbs.db
+docs/labs/pdf/
